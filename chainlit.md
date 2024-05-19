@@ -1,14 +1,14 @@
-# Welcome to Chainlit! 🚀🤖
+# PdfSeBaat
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+## Welcome to PdfSeBaat
 
-## Useful Links 🔗
+PdfSeBaat is your interactive solution for engaging with PDF documents. Upload your PDF and start a conversation with its content, asking questions and getting answers based on the text within the document.
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+### It runs on ollama locally and hence your data remains safe and private.
 
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
+### How It Works
 
-## Welcome screen
-
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+1. **Upload Your PDF and wait for it finish processing.**
+   
+2. **Once it is done you can ask questions regarding to it**
+   
